@@ -1,0 +1,10 @@
+Light,Padded,1
+Light,Leather,2
+Light,Studded Leather,3
+Medium,Hide,1
+Medium,Chain Shirt,2
+Medium,Scale mail,3
+Heavy,Ring mail,1
+Heavy,Chain mail,2
+Heavy,Plate,3
+None,Naked,0
