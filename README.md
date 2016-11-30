@@ -1,5 +1,5 @@
 # Maze-Runner-Game
-A mystery-dungeon style maze exploration game with an open and intricate combat system
+A mystery-dungeon style maze exploration game with an open and intricate combat system.
 The maze will contain items: weapons and armor for the player and potions for health restoration. As the player is exploring there will be a chance to run into an enemy monster and the player must fight them. 
 The combat system will let both the player and enemy attack and destroy any part of the body with a wide selection of attack options depending on the weapon equipped. 
 Weapons have 3 possible types of damage: Bludgeoning, Slashing, and Piercing damage. Each type of damage has a side effect.
